@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:33.512118
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:39
 #+TITLE: 大寒林聖難拏陀羅尼經
 #+PROPERTY: CBETA_ID T21n1392
 #+PROPERTY: ID KR6j0624
