@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:33.512118
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:39
 #+TITLE: 大寒林聖難拏陀羅尼經
 #+PROPERTY: CBETA_ID T21n1392
 #+PROPERTY: ID KR6j0624
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1392
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0624_T_000-0908b>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0624_T_001-0908b> ¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1392¶
-
- 大寒林聖難拏陀羅尼經¶
+No. 1392¶
+大寒林聖難拏陀羅尼經¶
 ¶
 西天中印度摩伽陀國那爛陀寺¶
 三藏傳教大師賜紫沙門臣¶
@@ -118,27 +117,27 @@ No.1392¶
 (去引)喃(去)婆誐嚩蹬(引)娑嚩(二合引)賀(引一百三十一)
 <pb:KR6j0624_T_001-0909c>¶
 
-Tadyathā,aṅgāvaṅgākaliṅgābhaṅgāvaraṅgāsaṁsārataraṅgā,sāsadaṅgā,bhagā,asurā,ekataraṅgā,asuravīrā,tara¶
-vīrātarataravīrā,karavīrā,karakaravīrā,indrāindrakisarā,hansāhansakisarāpicimalā.Mahāceiccā.Viheṭhikā,¶
-kālucchikā,aṅgādarājayājayālikādelāelācintāli,cilicilihilihilisumati,vasuvati,culunaḍḍe,culuculunadre,culu¶
-3naḍḍe,culunāḍi,kunādi,hārīṭaki2,kārīṭaki2,varīṭaki2gauri2gandhāri,caṇḍāli,vctāli,mātaṅgi,vacasi,dharaṅi,¶
-dharaṅi,taraṅitāraṅi,ḍaṁṣṭramālike,kacakācike,kacavācike,caranāṭike,kakalipte,lalamati,lakṣamat,varāhaku-¶
-le,matpale(?),utpale,dhārākulipārākuli,karavīre,karakaravīre,taravīre,tarataravīre,kuruvīre,kurukuruvī-¶
-re,curuvīre,curu2vīre,mahāvīre,iramati,caramati,rakṣamati,sarvārthasādhani,paramārthasādhani,apratihate,¶
-indrorājā,yamorājā,varṇorājā,kuverorājā,kumbāṇḍorājā,manasvīrājā,vāsukīrājā,daṇḍakīrājā,daṇḍāgnīrājā,¶
-dhṛtarāṣṭrorājā,virūḍakorājā,virupakṣorājā,brahmāsahasrādhipatīrājā,buddhobhagavāndharmasvāmīrājā,anutta-¶
-rolokānukampakaḥ.Manasaparivārasyasarvasattvāñcarakṣaṁkurvantuguptiṁparigrāṇaṁparigrāhaṁparipāraṁśānt-¶
-iṁsvastyanaṁdaṇḍaparihāraṁśastraparihāraṁviṣadūṣaṇaṁviṣanāśanaṁśīmāvandhandharaṇīvandhañcakuruvantu¶
-jīvatuvarṣaśataṁpaśyatuśaradāṁśataṁ.Tadyathā,ilāmilā,utpalā,iramativiramatirakṣamatiharamatitalamatila-¶
-kṣamati,kuru2mati,hurumatihuru2,phuru2,curu2,khara2,khuru2mati2bhūmicaṇḍa,kālike,abhisaṁlāṣite,sa-¶
-malate,hulesthūlesthūleśikhare,jayasthūle,valavadū(?),jayanaṅge,calanāḍi,curunāḍi,curucuruāḍi,vāgvand-¶
-hani,virohini,gorohini,aṇḍarepaṇḍare,karāle,kinnare,vidure,keyureketumati,bhūtamati,bhūtaṅgame,dhauyemaṅgal-¶
-ye,hiranyegarbhe.Mahāvale,avale,kitamūle,acalacaṇḍe,dhurandharā,jayālike,jayāgorohioi,curu2phuru2cundha¶
-2khuru2phuru2khuramati,vandhamatisvāhā,dhurandhare2vidhare.vimati,viskambhini,bhāvanivibhāvani,nāśani¶
-vināśani,vandhani,mokṣaṇiśodhani,sādhani,saṁśodhani,viśodhani,saṁkhiraṇi,saṁkiraṇisaṁcchindani.Sādhuturamā-¶
-ne,turu2manohara2vandhumati,hiri2khiri2khurali,huru2khuru2piṅgalemanośtubuddhānāṁbhagavatāṁsvāhā.¶
+Tad yathā, aṅgā vaṅgā kaliṅgā bhaṅgā varaṅgā saṁsārataraṅgā, sāsadaṅgā, bhagā, asurā, ekataraṅgā, asuravīrā, tara¶
+vīrā tara tara vīrā, kara vīrā, kara kara vīrā, indrā indra kisarā, hansā hansa kisarā picimalā. Mahāceiccā. Viheṭhikā,¶
+kālucchikā, aṅgādarā jayā jayā likā delā elā cintāli, cili cili hili hili sumati, vasuvati, culu naḍḍe, culu culu nadre, culu¶
+3 naḍḍe, culu nāḍi, kunādi, hārīṭaki 2, kārīṭaki 2, varīṭaki 2 gauri 2 gandhāri, caṇḍāli, vctāli, mātaṅgi, vacasi, dharaṅi,¶
+dharaṅi, taraṅi tāraṅi, ḍaṁṣṭramālike, kaca kācike, kaca vācike, caranāṭike, kaka lipte, lalamati, lakṣamat ,varāha ku-¶
+le, matpale(?), utpale, dhārā kuli pārā kuli, karavīre, kara kara vīre, tara vīre, tara tara vīre, kuru vīre, kuru kuru vī-¶
+re, curu vīre, curu 2 vīre, mahā vīre, iramati, caramati, rakṣamati, sarvārtha sādhani, paramārtha sādhani, aprati hate,¶
+indro rājā, yamo rājā, varṇo rājā, kuvero rājā, kumbāṇḍo rājā, manasvī rājā, vāsukī rājā, daṇḍakī rājā,daṇḍāgnī rājā,¶
+dhṛtarāṣṭro rājā, virūḍako rājā, virupakṣo rājā, brahmā sahasrādhipatī rājā, buddho bhagavān dharma svāmī rājā, anutta-¶
+ro lokānukampakaḥ. Manasaparivārasya sarvasattvāñca rakṣaṁ kurvantu guptiṁ parigrāṇaṁ parigrāhaṁ paripāraṁ śānt-¶
+iṁ svastyanaṁ daṇḍa parihāraṁ śastra parihāraṁ viṣadūṣaṇaṁ viṣanāśanaṁ śīmāvandhandharaṇī vandhañca kuruvantu¶
+jīvatu varṣa śataṁ paśyatu śaradāṁ śataṁ. Tad yathā, ilāmilā, utpalā, iramati viramati rakṣamati haramati talamati la-¶
+kṣamati, kuru 2 mati, hurumati huru 2, phuru 2, curu 2, khara 2, khuru 2 mati 2 bhūmi caṇḍa, kālike, abhisaṁlāṣite, sa-¶
+malate, hule sthūle sthūle śikhare, jaya sthūle, valavadū(?), jayanaṅge, cala nāḍi, curu nāḍi, curu curu āḍi, vāg vand-¶
+hani, virohini, gorohini, aṇḍare paṇḍare, karāle, kinnare, vidure, keyure ketumati, bhūtamati, bhūtaṅgame, dhauye maṅgal-¶
+ye, hiranye garbhe. Mahāvale, avale, kitamūle, acala caṇḍe, dhurandharā, jayā like, jayā gorohioi, curu 2 phuru 2 cundha¶
+2 khuru 2 phuru 2 khuramati, vandhamati svāhā, dhurandhare 2 vidhare. vimati, viskambhini, bhāvani vibhāvani, nāśani¶
+vināśani, vandhani, mokṣaṇi śodhani, sādhani, saṁśodhani, viśodhani, saṁkhiraṇi, saṁkiraṇi saṁcchindani. Sādhu turamā-¶
+ne, turu 2 manohara 2 vandhumati, hiri 2 khiri 2 khurali, huru 2 khuru 2 piṅgale manośtu buddhānāṁ bhagavatāṁ svāhā.¶
 
-復次羅睺羅。此大明陀羅尼念誦之人。能以¶
+復次羅喉羅。此大明陀羅尼念誦之人。能以¶
 香花而作供養。及結印契志心念誦一百八¶
 遍結諸線索繫於手上及安頸上。即得周遍¶
 百踰繕那能為擁護。人非人等悉皆遠離。亦¶
